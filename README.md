@@ -16,6 +16,8 @@ https://chuyu.org/research/snd
 
 ## News
 
+**[2025-01-23]**: We will release our checkpoints, datasets and codebase soon! Stay tuned!
+
 **[2025-01-22]**: We have launched our project page! Check [here](https://chuyu.org/research/a3syn) for more details and the demo of our work.
 
 <a name="citation"></a>

@@ -7,7 +7,7 @@ This is an official implementation of our work, Towards Affordance-Aware Articul
 [![PWC](https://img.shields.io/badge/arXiv-2501.12393-b31b1b)](https://arxiv.org/abs/2501.12393)
 [![PWC](https://img.shields.io/badge/arXiv-Bibtex-CB8CEA)](#citation)
 
-https://chuyu.org/research/snd
+https://chuyu.org/research/a3syn
 
 
 </div>
